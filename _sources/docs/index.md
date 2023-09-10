@@ -12,13 +12,12 @@ The course will move fast, cover a lot of material, and require active engagemen
 
 ## Goals
 
-After completing this course, students will be able to do the following in Python:
+The goal of this course is for students to become the best data scientists at working with social data. Students will be able to do the following in Python:
 
+* Work with and visualize various data structures, in particular DataFrames
 * Write effective and well-documented user-defined functions
-* Work with and visualize various data structures, like lists and DataFrames
-* Manipulate a variety of data, including flat files and text data
-* Write API queries to systematically access and custom-build web-based databases
-* Train and apply supervised machine learning algorithms
+* Write API queries to access and custom-build databases
+* Articulate research questions and answer them through cross-sectional analysis or regression
 * Write SQL queries to pull, aggregate, and summarize data stored in database tables
 
 
@@ -26,9 +25,9 @@ After completing this course, students will be able to do the following in Pytho
 
 ### By day of the week
 
-* Monday: 2:15-3:15 PM (Prof. OH), 7-8 PM (peer tutoring)
+* Monday: 9-10 AM (Prof. OH), 7-8 PM (peer tutoring)
 * Tuesday: 1-2 PM (Eunice OH)
-* Wednesday: 2:15-3:15 PM (Prof. OH)
+* Wednesday: 9-10 AM (Prof. OH)
 * Thursday: 9-10 PM (peer tutoring)
 * Friday: 2-3 PM (Ramsey OH)
 * Saturday: none
@@ -37,8 +36,9 @@ After completing this course, students will be able to do the following in Pytho
 
 ### Links & locations
 
-* Prof. OH: 2:15-3:15 PM Monday/Wednesday; drop-ins welcome to **103 Silsby**; [sign up for a virtual/private meeting](https://calendly.com/jaren_haber_qss)
-* Group tutoring with Eleanor Sullivan: [sign up here](https://grouptutoring.dartmouth.edu/terms/23W/groups/12210); 7-8 PM Monday in Reed 101, 9-10 PM Thursday in Baker 370, 8-9 PM Sunday in Dart 002; [Zoom as an alternate](https://dartmouth.zoom.us/j/96707419408?pwd=SzJPYVQ1M0RRZmUzWWpJMzFZWXdHdz09). Tutoring begins in the second week of the quarter.
+* Prof. OH: 9-10 AM Monday/Wednesday at **124 Silsby**; if you'd like to meet about research outside the course, send me times that work for you and we can schedule something.
+* Group tutoring TBD
+<!-- with Eleanor Sullivan: [sign up here](https://grouptutoring.dartmouth.edu/terms/23W/groups/12210); 7-8 PM Monday in Reed 101, 9-10 PM Thursday in Baker 370, 8-9 PM Sunday in Dart 002; [Zoom as an alternate](https://dartmouth.zoom.us/j/96707419408?pwd=SzJPYVQ1M0RRZmUzWWpJMzFZWXdHdz09). Tutoring begins in the second week of the quarter. -->
 * Eunice OH: 1-2 PM Tuesday [on Zoom](https://dartmouth.zoom.us/j/3848466647)
 * Ramsey OH: 2-3 PM Friday/Sunday in Haldeman 046, [Zoom as an alternate](https://dartmouth.zoom.us/j/6368699727)
 
@@ -47,8 +47,8 @@ After completing this course, students will be able to do the following in Pytho
 
 **This class has no textbook.** Instead, we will use DataCamp to introduce you to course concepts, and you're encouraged to use other online resources like [StackOverflow](https://stackoverflow.com/) to fill in the gaps. DataCamp modules feature short introductory videos to a concept (e.g., loops), which you can click through if you're already familiar with the concept. Next is a series of tasks where you will write code, submit to test whether your code does what it's supposed to, and then progress to the next task. You can access these modules on the course page within DataCamp, which you'll sign up for using your Dartmouth email. [You can join that here.](https://www.datacamp.com/groups/shared_links/434e7826f38af70536acc1d3bf83fe921babc9c35b966195cf577468505c0473) 
 
-**I suggest completing the assigned modules *before* the corresponding class,** so you can get more from the in-class activities. However, completing the modules within a few days of class can also be a good way to review and deepen what you learned in class—either option is acceptable. See the DataCamp course page for specific assigned modules (which should generally match the course schedule) as well as optional modules you are welcome to complete if useful to you (these are listed as due on March 14 but are NOT required).
+**I suggest completing the assigned modules *before* the corresponding class,** so you can get more from the in-class activities.
 
 DataCamp plays a supporting and minor role in the course, helping prepare you with the basic syntax for in-class activities. Accordingly, DataCamp modules are graded on a completion-only basis and are worth only 5% of your grade. You will receive full credit for DataCamp modules so long as you complete them by March 14 (when your final papers are due). Even so, if you’d prefer to skip the DataCamp modules, you can talk to the Prof. to get the 5% reapportioned to your problem sets.
 
-**Any DataCamp modules listed as being due March 30 are not required.** These are optional extra practice with the course tools and concepts to support your learning—especially those of you new to Python. You will have access to these modules (for free) until March 30, after which point only DataCamp subscribers can access them. 
+<!-- **Any DataCamp modules listed as being due March 30 are not required.** These are optional extra practice with the course tools and concepts to support your learning—especially those of you new to Python. You will have access to these modules (for free) until March 30, after which point only DataCamp subscribers can access them.  -->
