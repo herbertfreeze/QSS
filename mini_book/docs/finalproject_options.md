@@ -32,7 +32,7 @@ This option addresses an important issue in public health: *How do medical profe
 
 > The START program at UNH would like students of QSS 20 to analyze this training evaluation data to assess strengths and growth points as well as recommend changes based on the data which could improve efficacy, retention, impact, or all of the above.  (For example, the training videos which include the lived experience of individuals are already scoring higher, so that is one already-identified place where small changes to the content delivery medium could improve results).
 
-> At present (Fall 2022), there are 200+ evaluations of 40+ medical students, and by November we expect this number to grow to 300+ evaluations from 60+ distinct medical students.
+> At present (Fall 2023), there are 200+ evaluations of 40+ medical students, and by November we expect this number to grow to 300+ evaluations from 60+ distinct medical students.
 
 The training was six hours in length, and students evaluated the program by answering multiple choice and open-ended questions. You can view the [program evaluation surveys here](https://drive.google.com/drive/folders/1csAgglJta0Nbriyl358LKBwecVgKlbwb?usp=sharing) or see the [general SIP proposal](https://docs.google.com/document/d/1zctCWNn5S3PaZGCyKkKo0lnMBxiYUiDv/edit?usp=sharing&ouid=106209867651452643666&rtpof=true&sd=true) for more info.
 
@@ -77,8 +77,14 @@ You can view the [data dictionary here](https://docs.google.com/spreadsheets/d/1
 
 **These options require working in a group.**
 
+## 2. COVID-19 Discourse on Social Media
 
-## 2. Deeper dive into felony sentencing data used in problem sets 1 and 2
+The COVID-19 pandeimic impacted every country globally, with stay-at-home orders in most countries with outbreaks. The unprecendented amount of online activity also provided an opportunity to understand human behavior at a granular scale. Projects will analyze the largest COVID-19 Twitter dataset (n=4 billion) to investigate how COVID-19 interesect with student's particular interests. Examples from this dataset include [election misinformation](https://misinforeview.hks.harvard.edu/article/covid-19-misinformation-and-the-2020-u-s-presidential-election/), [liberal and conservative bots pushing misinformation](https://www.nytimes.com/2020/10/29/technology/twitter-bots-poised-to-spread-disinformation-before-election.html), and [KPop driving public health practices like mask wearking](https://arxiv.org/pdf/2110.04149.pdf).
+
+
+**This option requires working in a group.**
+
+## 3. Deeper dive into felony sentencing data used in problem sets 1 and 2
 
 In the first two problem sets, you used and got familiar with the Cook County State Attorney’s Office Felony Sentencing Data to investigate racial disparities in sentence length and within-judge disparities. With this project option, you’d do a deeper dive into the felony sentencing data to address another question, such as:
 1. more rigorous analyses of disparities using causal inference techniques
@@ -87,15 +93,7 @@ In the first two problem sets, you used and got familiar with the Cook County St
 **This option requires working in a group.**
 
 
-## 3. COVID-19 Discourse on Social Media
-
-The COVID-19 pandeimic impacted every country globally, with stay-at-home orders in most countries with outbreaks. The unprecendented amount of online activity also provided an opportunity to understand human behavior at a granular scale. Projects will analyze the largest COVID-19 Twitter dataset (n=4 billion) to investigate how COVID-19 interesect with student's particular interests. Examples from this dataset include [election misinformation](https://misinforeview.hks.harvard.edu/article/covid-19-misinformation-and-the-2020-u-s-presidential-election/), [liberal and conservative bots pushing misinformation](https://www.nytimes.com/2020/10/29/technology/twitter-bots-poised-to-spread-disinformation-before-election.html), and [KPop driving public health practices like mask wearking](https://arxiv.org/pdf/2110.04149.pdf).
-
-
-**This option requires working in a group.**
-
-
-## 3. Use Senior Thesis/independent project 
+## 4. Use Senior Thesis/independent project 
 
 If you're already pursuing a significant research project, you may use this course to advance an existing work in progress, covering parts and analysis you might not include otherwise. 
 

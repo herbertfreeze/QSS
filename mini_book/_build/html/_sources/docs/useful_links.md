@@ -15,7 +15,8 @@ kernelspec:
 
 ## Course Slides
 
-* [Unit 1](https://www.google.com)
+* To be posted.
+<!-- * [Unit 1](https://www.google.com) -->
 
 
 ## Surveys

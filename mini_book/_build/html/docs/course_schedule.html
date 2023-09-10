@@ -313,10 +313,10 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="course-schedule">
 <h1>Course Schedule<a class="headerlink" href="#course-schedule" title="Permalink to this headline">#</a></h1>
-<p>The course will meet on Monday and Wednesday from 3:30 to 5:20 PM EST.</p>
+<p>The course will meet on Tuesdays and Thursdays from 10:10 AM to 12:00 PM EST.</p>
 <p>Here is the current week-by-week schedule 📅 . We may adjust as we go along.</p>
 <p>To get started, let’s create the course schedule using the pandas module in Python. <strong>Click “show” to see the underlying code!</strong></p>
-<div class="cell tag_hide_input docutils container">
+<div class="cell tag_toggle docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># import modules</span>
 <span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
@@ -386,16 +386,16 @@ Name: day_date, dtype: object
             <span class="s2">&quot;Pandas 2&quot;</span><span class="p">,</span>
             <span class="s2">&quot;User-defined functions&quot;</span><span class="p">,</span>
             <span class="s2">&quot;Workflow basics: command line &amp; Github&quot;</span><span class="p">,</span>
-            <span class="s2">&quot;SQL&quot;</span><span class="p">,</span>
+            <span class="s2">&quot;Reshaping Data &amp; SQL&quot;</span><span class="p">,</span>
             <span class="s2">&quot;Catchup: Merging data &amp; LaTeX&quot;</span><span class="p">,</span>
             <span class="s2">&quot;Regular expressions (Regex)&quot;</span><span class="p">,</span>
             <span class="s2">&quot;Text-as-data 1 (text mining)&quot;</span><span class="p">,</span>
             <span class="s2">&quot;Text-as-data 2 (topic modeling)&quot;</span><span class="p">,</span>
             <span class="s2">&quot;APIs 1 (NAEP &amp; Yelp)&quot;</span><span class="p">,</span>
-            <span class="s2">&quot;APIs 2 (Twitter)&quot;</span><span class="p">,</span>
-            <span class="s2">&quot;Supervised machine learning 1 (logit &amp; regularization)&quot;</span><span class="p">,</span>
-            <span class="s2">&quot;Supervised machine learning 2 (Trees &amp; optimization)&quot;</span><span class="p">,</span>
-            <span class="s2">&quot;SQL&quot;</span><span class="p">,</span>
+            <span class="s2">&quot;APIs 2 (ChatGPT)&quot;</span><span class="p">,</span>
+            <span class="s2">&quot;Social Network Visualization&quot;</span><span class="p">,</span>
+            <span class="s2">&quot;Supervised machine learning 1&quot;</span><span class="p">,</span>
+            <span class="s2">&quot;Supervised machine learning 2&quot;</span><span class="p">,</span>
             <span class="s2">&quot;Final project work session&quot;</span><span class="p">,</span>
             <span class="s2">&quot;Final presentations&quot;</span><span class="p">,</span>
             <span class="s2">&quot;Final presentations&quot;</span><span class="p">]</span>
@@ -421,16 +421,16 @@ Name: day_date, dtype: object
 3   Thursday 09-21                                           Pandas 2
 4    Tuesday 09-26                             User-defined functions
 5   Thursday 09-28             Workflow basics: command line &amp; Github
-6    Tuesday 10-03                                                SQL
+6    Tuesday 10-03                               Reshaping Data &amp; SQL
 7   Thursday 10-05                      Catchup: Merging data &amp; LaTeX
 8    Tuesday 10-10                        Regular expressions (Regex)
 9   Thursday 10-12                       Text-as-data 1 (text mining)
 10   Tuesday 10-17                    Text-as-data 2 (topic modeling)
 11  Thursday 10-19                               APIs 1 (NAEP &amp; Yelp)
-12   Tuesday 10-24                                   APIs 2 (Twitter)
-13  Thursday 10-26  Supervised machine learning 1 (logit &amp; regular...
-14   Tuesday 10-31  Supervised machine learning 2 (Trees &amp; optimiz...
-15  Thursday 11-02                                                SQL
+12   Tuesday 10-24                                   APIs 2 (ChatGPT)
+13  Thursday 10-26                       Social Network Visualization
+14   Tuesday 10-31                      Supervised machine learning 1
+15  Thursday 11-02                      Supervised machine learning 2
 16   Tuesday 11-07                         Final project work session
 17  Thursday 11-09                                Final presentations
 18   Tuesday 11-14                                Final presentations
@@ -438,7 +438,7 @@ Name: day_date, dtype: object
 </div>
 </div>
 </div>
-<div class="cell tag_hide_input docutils container">
+<div class="cell tag_toggle docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># add DataCamp modules to schedule, matching to concepts conditionally</span>
 <span class="n">match_col</span> <span class="o">=</span> <span class="s2">&quot;Concepts&quot;</span> <span class="c1"># concepts column to match on</span>
@@ -451,8 +451,8 @@ Name: day_date, dtype: object
            <span class="n">df</span><span class="p">[</span><span class="n">match_col</span><span class="p">]</span> <span class="o">==</span> <span class="s2">&quot;Regular expressions (Regex)&quot;</span><span class="p">,</span>
            <span class="n">df</span><span class="p">[</span><span class="n">match_col</span><span class="p">]</span> <span class="o">==</span> <span class="s2">&quot;Text-as-data 1 (text mining)&quot;</span><span class="p">,</span>
            <span class="n">df</span><span class="p">[</span><span class="n">match_col</span><span class="p">]</span> <span class="o">==</span> <span class="s2">&quot;APIs 1 (NAEP &amp; Yelp)&quot;</span><span class="p">,</span>
-           <span class="n">df</span><span class="p">[</span><span class="n">match_col</span><span class="p">]</span> <span class="o">==</span> <span class="s2">&quot;APIs 2 (Twitter)&quot;</span><span class="p">,</span>
-           <span class="n">df</span><span class="p">[</span><span class="n">match_col</span><span class="p">]</span> <span class="o">==</span> <span class="s2">&quot;Supervised machine learning 1 (logit &amp; regularization)&quot;</span><span class="p">,</span>
+           <span class="n">df</span><span class="p">[</span><span class="n">match_col</span><span class="p">]</span> <span class="o">==</span> <span class="s2">&quot;APIs 2 (ChatGPT)&quot;</span><span class="p">,</span>
+           <span class="n">df</span><span class="p">[</span><span class="n">match_col</span><span class="p">]</span> <span class="o">==</span> <span class="s2">&quot;Supervised machine learning 1&quot;</span><span class="p">,</span>
            <span class="n">df</span><span class="p">[</span><span class="n">match_col</span><span class="p">]</span> <span class="o">==</span> <span class="s2">&quot;SQL&quot;</span><span class="p">,</span>
            <span class="n">df</span><span class="p">[</span><span class="n">match_col</span><span class="p">]</span> <span class="o">==</span> <span class="s2">&quot;Web-scraping&quot;</span><span class="p">]</span>
 
@@ -498,7 +498,7 @@ Name: day_date, dtype: object
 </div>
 </div>
 </div>
-<div class="cell tag_hide_input docutils container">
+<div class="cell tag_hide_input tag_toggle docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># add assignments to schedule, matching to dates/concepts conditionally</span>
 <span class="n">date_col</span> <span class="o">=</span> <span class="s2">&quot;Date&quot;</span> <span class="c1"># date column to match on</span>
@@ -586,8 +586,8 @@ Name: day_date, dtype: object
     </tr>
     <tr>
       <td>Tuesday 10-03</td>
-      <td>SQL</td>
-      <td>Intro. to SQL (chpts. 1-2)</td>
+      <td>Reshaping Data & SQL</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -622,26 +622,26 @@ Name: day_date, dtype: object
     </tr>
     <tr>
       <td>Tuesday 10-24</td>
-      <td>APIs 2 (Twitter)</td>
+      <td>APIs 2 (ChatGPT)</td>
       <td>Diving deep into the Twitter API (chpt.)</td>
       <td>Problem set four (due Sunday 10-29)</td>
     </tr>
     <tr>
       <td>Thursday 10-26</td>
-      <td>Supervised machine learning 1 (logit & regularization)</td>
-      <td>Supervised Learning with scikit-learn (course)</td>
+      <td>Social Network Visualization</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Tuesday 10-31</td>
-      <td>Supervised machine learning 2 (Trees & optimization)</td>
-      <td></td>
+      <td>Supervised machine learning 1</td>
+      <td>Supervised Learning with scikit-learn (course)</td>
       <td>Final project milestone 2 (due Sunday 11-05)</td>
     </tr>
     <tr>
       <td>Thursday 11-02</td>
-      <td>SQL</td>
-      <td>Intro. to SQL (chpts. 1-2)</td>
+      <td>Supervised machine learning 2</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -735,7 +735,7 @@ Name: day_date, dtype: object
   <div class="footer-item">
     
 <p class="component-author">
-By Jaren Haber
+By Herbert Chang
 </p>
 
   </div>
