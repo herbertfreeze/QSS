@@ -37,8 +37,8 @@ Create a private GitHub repository for your team that contains:
 - An `output/` directory for graphs/figures
 - A link to cloud storage where you keep the data (e.g., Dropbox, Google Drive)
 
-Add Dr. Jaren + the TA(s) as collaborators:
-- Our GitHub usernames: herbertfreeze; euniceyliu
+Add Prof. Chang + the TA(s) as collaborators:
+- Our GitHub usernames: herbertfreeze, Sabinhart, and emj1214.
 
 Then assign us an issue to review some progress on code/analysis.
 - You do NOT need to be close to finished for this. We just want to see that you’ve loaded the data and started to write some code

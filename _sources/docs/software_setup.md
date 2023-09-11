@@ -20,7 +20,7 @@ There are Slack channels for each major part of the course. The other folders an
     - `qss20-general`: logistics, schedule, projects, due dates, and announcements, and general chat.
     - `qss20-python`: python in general, not specific to problem sets or final project components.
     - `qss20-gitCommand`: creating git repositories, the online GitHub interface, making commits and pull requests, etc.
-    - `latex/overleaf`: LaTeX syntax, working with templates on Overleaf, etc.
+    - `qss20-latex`: LaTeX syntax, working with templates on Overleaf, etc.
 
 - **Locally-installed Python**. While cloud computing is common in data science, the baseline for code development is to work locally. So the main interface we will use to code is your own laptop, on which you will install Python and relevant packages. 
 

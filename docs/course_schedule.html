@@ -316,7 +316,12 @@ document.write(`
 <p>The course will meet on Tuesdays and Thursdays from 10:10 AM to 12:00 PM EST.</p>
 <p>Here is the current week-by-week schedule 📅 . We may adjust as we go along.</p>
 <p>To get started, let’s create the course schedule using the pandas module in Python. <strong>Click “show” to see the underlying code!</strong></p>
-<div class="cell tag_hide_input docutils container">
+<div class="cell tag_hide-input docutils container">
+<details class="hide above-input">
+<summary aria-label="Toggle hidden content">
+<span class="collapsed">Show code cell source</span>
+<span class="expanded">Hide code cell source</span>
+</summary>
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># import modules</span>
 <span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
@@ -349,6 +354,7 @@ document.write(`
 </pre></div>
 </div>
 </div>
+</details>
 <div class="cell_output docutils container">
 <div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>0      Tuesday 09-12
 1     Thursday 09-14
@@ -375,7 +381,12 @@ Name: day_date, dtype: object
 </div>
 </div>
 <p>The next few blocks of code creates the actual schedule content by joining the above list of dates with course concepts.</p>
-<div class="cell tag_hide_input docutils container">
+<div class="cell tag_hide-input docutils container">
+<details class="hide above-input">
+<summary aria-label="Toggle hidden content">
+<span class="collapsed">Show code cell source</span>
+<span class="expanded">Hide code cell source</span>
+</summary>
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># create basic schedule content</span>
 
@@ -413,6 +424,7 @@ Name: day_date, dtype: object
 </pre></div>
 </div>
 </div>
+</details>
 <div class="cell_output docutils container">
 <div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>              Date                                           Concepts
 0    Tuesday 09-12                    Course intro. &amp; syllabus review
@@ -438,7 +450,12 @@ Name: day_date, dtype: object
 </div>
 </div>
 </div>
-<div class="cell tag_hide_input docutils container">
+<div class="cell tag_hide-input docutils container">
+<details class="hide above-input">
+<summary aria-label="Toggle hidden content">
+<span class="collapsed">Show code cell source</span>
+<span class="expanded">Hide code cell source</span>
+</summary>
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># add DataCamp modules to schedule, matching to concepts conditionally</span>
 <span class="n">match_col</span> <span class="o">=</span> <span class="s2">&quot;Concepts&quot;</span> <span class="c1"># concepts column to match on</span>
@@ -492,13 +509,19 @@ Name: day_date, dtype: object
 </pre></div>
 </div>
 </div>
+</details>
 <div class="cell_output docutils container">
 <div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&#39;\n**Optional DataCamp courses &amp; chapters for further learning:**\n\n- Introduction to data visualization with MatPlotLib\n- Introduction to data visualization with ggplot2\n- Intermediate python: loops\n- Python data science toolbox (Part 1)\n- Object-Oriented Programming in Python: OOP Fundamentals\n- Regular expressions in Python (first three chapters)\n- Introduction to natural language processing in Python\n- Introduction to databases in Python\n- Intermediate importing data in python\n- Intermediate SQL queries\n- Web scraping in python\n&#39;
 </pre></div>
 </div>
 </div>
 </div>
-<div class="cell tag_hide_input docutils container">
+<div class="cell tag_hide-input docutils container">
+<details class="hide above-input">
+<summary aria-label="Toggle hidden content">
+<span class="collapsed">Show code cell source</span>
+<span class="expanded">Hide code cell source</span>
+</summary>
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># add assignments to schedule, matching to dates/concepts conditionally</span>
 <span class="n">date_col</span> <span class="o">=</span> <span class="s2">&quot;Date&quot;</span> <span class="c1"># date column to match on</span>
@@ -530,6 +553,7 @@ Name: day_date, dtype: object
 </pre></div>
 </div>
 </div>
+</details>
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
