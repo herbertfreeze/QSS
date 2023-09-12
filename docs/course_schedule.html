@@ -393,7 +393,7 @@ Name: day_date, dtype: object
 <span class="c1"># list of concepts</span>
 <span class="n">concepts</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;Course intro. &amp; syllabus review&quot;</span><span class="p">,</span>
             <span class="s2">&quot;Python basics (variables, lists, arrays) &amp; software setup&quot;</span><span class="p">,</span>
-            <span class="s2">&quot;Pandas for data manipulation 1 + data visualization&quot;</span><span class="p">,</span>
+            <span class="s2">&quot;Pandas for data manipulation 1 + static data visualization&quot;</span><span class="p">,</span>
             <span class="s2">&quot;Pandas 2&quot;</span><span class="p">,</span>
             <span class="s2">&quot;User-defined functions&quot;</span><span class="p">,</span>
             <span class="s2">&quot;Workflow basics: command line &amp; Github&quot;</span><span class="p">,</span>
@@ -402,9 +402,9 @@ Name: day_date, dtype: object
             <span class="s2">&quot;Regular expressions (Regex)&quot;</span><span class="p">,</span>
             <span class="s2">&quot;Text-as-data 1 (text mining)&quot;</span><span class="p">,</span>
             <span class="s2">&quot;Text-as-data 2 (topic modeling)&quot;</span><span class="p">,</span>
-            <span class="s2">&quot;APIs 1 (NAEP &amp; Yelp)&quot;</span><span class="p">,</span>
-            <span class="s2">&quot;APIs 2 (ChatGPT)&quot;</span><span class="p">,</span>
+            <span class="s2">&quot;APIs 1 (ChatGPT)&quot;</span><span class="p">,</span>
             <span class="s2">&quot;Social Network Visualization&quot;</span><span class="p">,</span>
+            <span class="s2">&quot;Common Distribs in Social Science&quot;</span><span class="p">,</span>
             <span class="s2">&quot;Supervised machine learning 1&quot;</span><span class="p">,</span>
             <span class="s2">&quot;Supervised machine learning 2&quot;</span><span class="p">,</span>
             <span class="s2">&quot;Final project work session&quot;</span><span class="p">,</span>
@@ -429,7 +429,7 @@ Name: day_date, dtype: object
 <div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>              Date                                           Concepts
 0    Tuesday 09-12                    Course intro. &amp; syllabus review
 1   Thursday 09-14  Python basics (variables, lists, arrays) &amp; sof...
-2    Tuesday 09-19  Pandas for data manipulation 1 + data visualiz...
+2    Tuesday 09-19  Pandas for data manipulation 1 + static data v...
 3   Thursday 09-21                                           Pandas 2
 4    Tuesday 09-26                             User-defined functions
 5   Thursday 09-28             Workflow basics: command line &amp; Github
@@ -438,9 +438,9 @@ Name: day_date, dtype: object
 8    Tuesday 10-10                        Regular expressions (Regex)
 9   Thursday 10-12                       Text-as-data 1 (text mining)
 10   Tuesday 10-17                    Text-as-data 2 (topic modeling)
-11  Thursday 10-19                               APIs 1 (NAEP &amp; Yelp)
-12   Tuesday 10-24                                   APIs 2 (ChatGPT)
-13  Thursday 10-26                       Social Network Visualization
+11  Thursday 10-19                                   APIs 1 (ChatGPT)
+12   Tuesday 10-24                       Social Network Visualization
+13  Thursday 10-26                  Common Distribs in Social Science
 14   Tuesday 10-31                      Supervised machine learning 1
 15  Thursday 11-02                      Supervised machine learning 2
 16   Tuesday 11-07                         Final project work session
@@ -461,8 +461,8 @@ Name: day_date, dtype: object
 <span class="n">match_col</span> <span class="o">=</span> <span class="s2">&quot;Concepts&quot;</span> <span class="c1"># concepts column to match on</span>
 
 <span class="n">tomatch</span> <span class="o">=</span> <span class="p">[</span><span class="n">df</span><span class="p">[</span><span class="n">match_col</span><span class="p">]</span> <span class="o">==</span> <span class="s2">&quot;Python basics (variables, lists, arrays) &amp; software setup&quot;</span><span class="p">,</span>
-           <span class="n">df</span><span class="p">[</span><span class="n">match_col</span><span class="p">]</span> <span class="o">==</span> <span class="s2">&quot;Workflow basics: command line &amp; Github&quot;</span><span class="p">,</span>
            <span class="n">df</span><span class="p">[</span><span class="n">match_col</span><span class="p">]</span> <span class="o">==</span> <span class="s2">&quot;Pandas for data manipulation 1 + static data visualization&quot;</span><span class="p">,</span>
+           <span class="n">df</span><span class="p">[</span><span class="n">match_col</span><span class="p">]</span> <span class="o">==</span> <span class="s2">&quot;Workflow basics: command line &amp; Github&quot;</span><span class="p">,</span>
            <span class="n">df</span><span class="p">[</span><span class="n">match_col</span><span class="p">]</span> <span class="o">==</span> <span class="s2">&quot;User-defined functions &amp; LaTeX&quot;</span><span class="p">,</span>
            <span class="n">df</span><span class="p">[</span><span class="n">match_col</span><span class="p">]</span> <span class="o">==</span> <span class="s2">&quot;Catchup: Merging data &amp; LaTeX&quot;</span><span class="p">,</span>
            <span class="n">df</span><span class="p">[</span><span class="n">match_col</span><span class="p">]</span> <span class="o">==</span> <span class="s2">&quot;Regular expressions (Regex)&quot;</span><span class="p">,</span>
@@ -475,8 +475,8 @@ Name: day_date, dtype: object
 
 <span class="c1"># define DataCamp modules</span>
 <span class="n">modules</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;Intro. to Python (chpts. 2-3)&quot;</span><span class="p">,</span>
-           <span class="s2">&quot;Intro. to Shell, Intro. to GitHub (chpts.)&quot;</span><span class="p">,</span>
            <span class="s2">&quot;Data Manipulation with pandas (course)&quot;</span><span class="p">,</span>
+           <span class="s2">&quot;Intro. to Shell, Intro. to GitHub (chpts.)&quot;</span><span class="p">,</span>
            <span class="s2">&quot;Writing your own functions (chpt.)&quot;</span><span class="p">,</span>
            <span class="s2">&quot;Joining Data with pandas (chpts. 1-2)&quot;</span><span class="p">,</span>
            <span class="s2">&quot;Regular Expressions for Pattern Matching (chpt.)&quot;</span><span class="p">,</span>
@@ -586,8 +586,8 @@ Name: day_date, dtype: object
     </tr>
     <tr>
       <td>Tuesday 09-19</td>
-      <td>Pandas for data manipulation 1 + data visualization</td>
-      <td></td>
+      <td>Pandas for data manipulation 1 + static data visualization</td>
+      <td>Data Manipulation with pandas (course)</td>
       <td>Problem set one (solo; due Sunday 09-24)</td>
     </tr>
     <tr>
@@ -640,19 +640,19 @@ Name: day_date, dtype: object
     </tr>
     <tr>
       <td>Thursday 10-19</td>
-      <td>APIs 1 (NAEP & Yelp)</td>
-      <td>Interacting with APIs to import data from the web (chpt.)</td>
+      <td>APIs 1 (ChatGPT)</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Tuesday 10-24</td>
-      <td>APIs 2 (ChatGPT)</td>
-      <td>Diving deep into the Twitter API (chpt.)</td>
+      <td>Social Network Visualization</td>
+      <td></td>
       <td>Problem set four (due Sunday 10-29)</td>
     </tr>
     <tr>
       <td>Thursday 10-26</td>
-      <td>Social Network Visualization</td>
+      <td>Common Distribs in Social Science</td>
       <td></td>
       <td></td>
     </tr>

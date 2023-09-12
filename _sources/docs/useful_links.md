@@ -21,7 +21,8 @@ kernelspec:
 
 ## Surveys
 
-* [Final project group preferences form](https://forms.gle/FxrVnLGXrLiGDtTh6) (due Friday, 10/06/23)
+<!-- * [Final project group preferences form](https://forms.gle/FxrVnLGXrLiGDtTh6) (due Friday, 10/06/23) -->
+* Final project group preferences form (to be posted) (due Friday, 10/06/23)
 <!-- * [Problem set 2 feedback form](https://forms.gle/R7GD8CYZiH182wwJ9) to complete *after* submitting pset 2 -->
 <!-- * [Complete this student information form](https://forms.gle/irAmC6sbBjEwKvL99) -->
 

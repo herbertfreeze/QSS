@@ -22,11 +22,12 @@ With support from the [Dartmouth Center for Social Impact](https://students.dart
 
 Your partner and data provider for the Social Impact Practicum will be the National Center for START Services (NCSS) at the Institute on Disability at University of New Hampshire (UNH). The START (Systemic, Therapeutic, Assessment, Resources, and Treatment) model advanced at UNH is a comprehensive model of service supporting the optimization of independence, treatment, and community living for individuals with IDD and mental health needs. You can find more information about the Center for Start Services [here](https://centerforstartservices.org/) and [here](https://iod.unh.edu/projects/center-start-services). To get a look at the START program in action, check out [this documentary (66 mins)](https://centerforstartservices.org/START-film).
 
-If you choose this project option, you have two options. The first is to analyze the results of medical student training for prescribing to folks with Intellectual and Developmental Disabilities (IDD). The second is to study a large dataset on experiences and outcomes for START participants.
+<!-- If you choose this project option, you have two options. The first is to analyze the results of medical student training for prescribing to folks with Intellectual and Developmental Disabilities (IDD). The second is to study a large dataset on experiences and outcomes for START participants. -->
 
-### SIP Option 1: Medical training data
+<!-- ### SIP Option 1: Medical training data
 
-This option addresses an important issue in public health: *How do medical professionals interact with patients with IDD, and how can medical student training improve this?* Here is more information from the project partner:
+This option addresses  -->
+The data cuts to an important issue in public health: *How do medical professionals interact with patients with IDD, and how can medical student training improve this?* Here is more information from the project partner:
 
 > As part of a strategic initiative to develop best practices for prescribers who work with patients with IDD and mental health concerns (IDD_MH), NCSS/UNH has begun piloting training content with medical students (residents, fellows and second/third year medical students) at the Geisel School of Medicine at Dartmouth, the medical school and the University of Puerto Rico, and Franklin Pierce University’s Physician Assistant Program.  This includes a 6 hours of trainings based on the recently published [Integrated Mental Health Treatment Guidelines for Prescribers in Intellectual and Developmental Disabilities](https://centerforstartservices.org/IDD-MH-Prescribing-Guidelines) as well as pre- and post-evaluation data.
 
@@ -36,7 +37,9 @@ This option addresses an important issue in public health: *How do medical profe
 
 The training was six hours in length, and students evaluated the program by answering multiple choice and open-ended questions. You can view the [program evaluation surveys here](https://drive.google.com/drive/folders/1csAgglJta0Nbriyl358LKBwecVgKlbwb?usp=sharing) or see the [general SIP proposal](https://docs.google.com/document/d/1zctCWNn5S3PaZGCyKkKo0lnMBxiYUiDv/edit?usp=sharing&ouid=106209867651452643666&rtpof=true&sd=true) for more info.
 
-Here are a few broad questions you could investigate if choosing this option: 
+I will update with possibilities by the end of this week. Here are a few broad directions:
+
+<!--  Here are a few broad questions you could investigate if choosing this option: 
 
 _Is this working?_
 
@@ -60,9 +63,10 @@ These data include about 13,000 START participants from 2013 to 2021. The more d
 * Demographics
 * Intake info
 
-Here are a few broad questions you could investigate if choosing this option: 
+Here are a few broad questions you could investigate if choosing this option:--> 
 
-**Over full SIRS data**:
+**Over full SIRS data**: 
+
 * What is the composition of START participants by race, gender, and living situation, and how do these correlate with disadvantage in terms of family background, crisis events, or aggressive behavior?
 * How often do START participants encounter law enforcement or exhibit aggressive or self-harming behaviors, and how have these changed over time? 
 * How did trends in START participation (e.g., hospital visits) change with the COVID pandemic compared with the previous, longer time scale (back to 2010)?
@@ -80,6 +84,8 @@ You can view the [data dictionary here](https://docs.google.com/spreadsheets/d/1
 ## 2. COVID-19 Discourse on Social Media
 
 The COVID-19 pandeimic impacted every country globally, with stay-at-home orders in most countries with outbreaks. The unprecendented amount of online activity also provided an opportunity to understand human behavior at a granular scale. Projects will analyze the largest COVID-19 Twitter dataset (n=4 billion) to investigate how COVID-19 interesect with student's particular interests. Examples from this dataset include [election misinformation](https://misinforeview.hks.harvard.edu/article/covid-19-misinformation-and-the-2020-u-s-presidential-election/), [liberal and conservative bots pushing misinformation](https://www.nytimes.com/2020/10/29/technology/twitter-bots-poised-to-spread-disinformation-before-election.html), and [KPop driving public health practices like mask wearking](https://arxiv.org/pdf/2110.04149.pdf).
+
+I will be hosting a SQL server soon to make the data available.
 
 
 **This option requires working in a group.**
