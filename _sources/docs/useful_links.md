@@ -15,8 +15,7 @@ kernelspec:
 
 ## Course Slides
 
-* To be posted.
-<!-- * [Unit 1](https://www.google.com) -->
+* [Class 01](https://docs.google.com/presentation/d/1poBYxsWjkDBXTXYbn4baaI5OcH88yvvbdcFpxS4oaEU/edit?usp=sharing)
 
 
 ## Surveys

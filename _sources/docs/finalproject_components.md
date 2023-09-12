@@ -68,4 +68,4 @@ Then assign us an issue to review some progress on code/analysis.
     - What the file does: describe major transformations.
     - Outputs (if any): e.g., a cleaned dataset; a figure or graph
 
-The final GitHub repo and 10-page report will be evaluated using [this rubric](https://github.com/jhaber-zz/QSS20_public/blob/main/finalproj_guidelines/final_project_rubric.csv).
+The final GitHub repo and 10-page report will be evaluated using [this rubric](https://github.com/herbertfreeze/QSS_Public/blob/main/finalproj_guidelines/final_project_rubric.csv).
