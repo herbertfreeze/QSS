@@ -41,13 +41,13 @@ The goal of this course is for students to become better data scientists. Studen
 * Prof. OH: 9-10 AM Monday/Wednesday at **124 Silsby**; if you'd like to meet about research outside the course, send me times that work for you and we can schedule something.
 * Group tutoring TBD
 <!-- with Eleanor Sullivan: [sign up here](https://grouptutoring.dartmouth.edu/terms/23W/groups/12210); 7-8 PM Monday in Reed 101, 9-10 PM Thursday in Baker 370, 8-9 PM Sunday in Dart 002; [Zoom as an alternate](https://dartmouth.zoom.us/j/96707419408?pwd=SzJPYVQ1M0RRZmUzWWpJMzFZWXdHdz09). Tutoring begins in the second week of the quarter. -->
-* Emma OH: 4:30  - 5:30 PM Tuesday (location TBD)
-* Sabin OH: 1:30 - 2:30 PM Friday (location TBD)
+* Emma OH: 4:30  - 5:30 PM Tuesday (Kemeny 105)
+* Sabin OH: 1:30 - 2:30 PM Friday (Haldeman 46)
 
 
 ## DataCamp as learning resource
 
-**This class has no textbook.** Instead, we will use DataCamp to introduce you to course concepts, and you're encouraged to use other online resources like [StackOverflow](https://stackoverflow.com/) to fill in the gaps. DataCamp modules feature short introductory videos to a concept (e.g., loops), which you can click through if you're already familiar with the concept. Next is a series of tasks where you will write code, submit to test whether your code does what it's supposed to, and then progress to the next task. You can access these modules on the course page within DataCamp, which you'll sign up for using your Dartmouth email. [You can join that here.](https://www.datacamp.com/groups/shared_links/434e7826f38af70536acc1d3bf83fe921babc9c35b966195cf577468505c0473) 
+**This class has no textbook.** Instead, we will use DataCamp to introduce you to course concepts, and you're encouraged to use other online resources like [StackOverflow](https://stackoverflow.com/) to fill in the gaps. DataCamp modules feature short introductory videos to a concept (e.g., loops), which you can click through if you're already familiar with the concept. Next is a series of tasks where you will write code, submit to test whether your code does what it's supposed to, and then progress to the next task. You can access these modules on the course page within DataCamp.
 
 **I suggest completing the assigned modules *before* the corresponding class,** so you can get more from the in-class activities.
 
