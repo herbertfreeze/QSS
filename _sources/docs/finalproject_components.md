@@ -39,7 +39,7 @@ Create a private GitHub repository for your team that contains:
 - A link to cloud storage where you keep the data (e.g., Dropbox, Google Drive)
 
 Add Prof. Chang + the TA(s) as collaborators:
-- Our GitHub usernames: herbertfreeze, Sabinhart, and emj1214.
+- Our GitHub usernames: herbertfreeze, Sabin-Dart, and emj1214.
 
 Then assign us an issue to review some progress on code/analysis.
 - You do NOT need to be close to finished for this. We just want to see that you’ve loaded the data and started to write some code

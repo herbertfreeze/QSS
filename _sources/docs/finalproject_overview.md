@@ -20,7 +20,7 @@ Your final project will produce three outputs: a status update presentation (on 
 
 ## Options for working on final projects
 
-You will have four options for how you work on the final project, two of which involve forming groups of 3-4 students (we'll ask you about your preferences later). 
+You will have three options for how you work on the final project, two of which involve forming groups of 3-4 students (we'll ask you about your preferences later). 
 
 1. Choose your own groups 
     - Keep in mind complementary skillsets as well as people you like, given how much time you will spend communicating and working together. This project calls for not only people skilled at writing Python code, but also people who excel at doing research, analysis, interpretation, and data visualization. In other words, aim for a diverse team and you will probably find it makes you more productive.
