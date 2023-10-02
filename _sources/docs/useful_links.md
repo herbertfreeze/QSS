@@ -19,6 +19,7 @@ kernelspec:
 * [Class 02](https://docs.google.com/presentation/d/1vY-beiNJfSuRUoxs_KklL-uCkVGfTYyMsH7vpVf-NLk/edit?usp=sharing)
 * [Class 03](https://docs.google.com/presentation/d/1YMXMjCJaauhTdbN0jCahZnojTfAYWEJpQxOZ0Scrhfk/edit?usp=sharing)
 * [Class 04](https://docs.google.com/presentation/d/1mWtLp_7DX-CSEjY9rYoEZTOul5NZASGRxwDwAw_uaI0/edit?usp=sharing)
+* [Class 05](https://docs.google.com/presentation/d/1a5WrPC7Egqm5H6MRM1velJvARqo52P25KB6n1z-Tnt4/edit?usp=sharing)
 
 
 ## Surveys

@@ -22,7 +22,7 @@ Before starting milestone one:
 <!-- - Fill out [the final project group form](https://forms.gle/QMXzFohZ5yxs94yD6) -->
 - Fill out the final project group form (To be posted)
 - Read the [report for one Spring 2021 project](https://github.com/rebeccajohnson88/qss20_s21_proj/tree/main/memos/final_papers) and get a sense for its strengths and weaknesses. What can you learn from their report? What can you improve on?
-- Copy to your own Overleaf account [the milestone 1 template](https://www.overleaf.com/9461636581djcsgynkwkgk) and **only edit your local copy** (please don't change the template!)
+- Copy to your own Overleaf account [the milestone 1 template](https://www.overleaf.com/read/kpcppvrvdkmh) and **only edit your local copy** (please don't change the template!)
   - You need to first setup an Overleaf account with your Dartmouth email (free) and log in
 
 Then fill in the template sections by exploring your data on possible questions, relevant data fields, and possible changes.
