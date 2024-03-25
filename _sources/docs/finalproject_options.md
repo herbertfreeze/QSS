@@ -85,16 +85,18 @@ You can view the [data dictionary here](https://docs.google.com/spreadsheets/d/1
 
 The COVID-19 pandeimic impacted every country globally, with stay-at-home orders in most countries with outbreaks. The unprecendented amount of online activity also provided an opportunity to understand human behavior at a granular scale. Projects will analyze the largest COVID-19 Twitter dataset (n=4 billion) to investigate how COVID-19 interesect with student's particular interests. Examples from this dataset include [election misinformation](https://misinforeview.hks.harvard.edu/article/covid-19-misinformation-and-the-2020-u-s-presidential-election/), [liberal and conservative bots pushing misinformation](https://www.nytimes.com/2020/10/29/technology/twitter-bots-poised-to-spread-disinformation-before-election.html), and [KPop driving public health practices like mask wearking](https://arxiv.org/pdf/2110.04149.pdf).
 
-I will be hosting a SQL server soon to make the data available.
-
 
 **This option requires working in a group.**
 
-## 3. Deeper dive into felony sentencing data used in problem sets 1 and 2
+## 3. SIPS
 
-In the first two problem sets, you used and got familiar with the Cook County State Attorney’s Office Felony Sentencing Data to investigate racial disparities in sentence length and within-judge disparities. With this project option, you’d do a deeper dive into the felony sentencing data to address another question, such as:
-1. more rigorous analyses of disparities using causal inference techniques
-2. analyses of other fields in the data (e.g., neighborhood disparities; how judge demographics relate to sentencing behavior)
+In rural areas such as the Upper Valley, participants often claim to have learned of new initiatives by “word of mouth”. Unfortunately, while this may be an effective communication tool among affluent communities, research indicates that it does not necessarily reach those who are less financially secure.
+
+NHAS has secured a generous amount of financial aid to increase the socioeconomic representation in the scientific community but unless applicants from less affluent communities know about, and subsequently apply to, NHAS programs, these financial resources go unused.
+
+To that end, NHAS is hoping Dartmouth students can work with data gathered by NHAS educational research surveys and registration data for NHAS patrons of current programs and camps to explore which communities in the Upper Valley are underrepresented in their program. This aligns with a broader goal of ensuring that the scientific community is accessible, regardless of socioeconomics, and truly representative of the broader community at large.
+
+Part of this project should also include ideas about how to both collect the sensitive data that is likely to be yielded from the survey as well as how to evaluate and use the data gathered most effectively.
 
 **This option requires working in a group.**
 

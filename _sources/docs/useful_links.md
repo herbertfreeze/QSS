@@ -15,8 +15,8 @@ kernelspec:
 
 ## Course Slides
 
-* [Class 01 | Intro + Set-up](https://docs.google.com/presentation/d/1poBYxsWjkDBXTXYbn4baaI5OcH88yvvbdcFpxS4oaEU/edit?usp=sharing)
-* [Class 02 | Pandas](https://docs.google.com/presentation/d/1vY-beiNJfSuRUoxs_KklL-uCkVGfTYyMsH7vpVf-NLk/edit?usp=sharing)
+<!-- * [Class 01 | Intro + Set-up](https://docs.google.com/presentation/d/1poBYxsWjkDBXTXYbn4baaI5OcH88yvvbdcFpxS4oaEU/edit?usp=sharing) -->
+<!-- * [Class 02 | Pandas](https://docs.google.com/presentation/d/1vY-beiNJfSuRUoxs_KklL-uCkVGfTYyMsH7vpVf-NLk/edit?usp=sharing)
 * [Class 03 | Pandas 2](https://docs.google.com/presentation/d/1YMXMjCJaauhTdbN0jCahZnojTfAYWEJpQxOZ0Scrhfk/edit?usp=sharing)
 * [Class 04 | User-defined functions](https://docs.google.com/presentation/d/1mWtLp_7DX-CSEjY9rYoEZTOul5NZASGRxwDwAw_uaI0/edit?usp=sharing)
 * [Class 05 | Workflows](https://docs.google.com/presentation/d/1a5WrPC7Egqm5H6MRM1velJvARqo52P25KB6n1z-Tnt4/edit?usp=sharing)
@@ -29,20 +29,20 @@ kernelspec:
 * [Class 12 | Supervised ML 2](https://docs.google.com/presentation/d/13xJTI_GZ2HZYI9OSmezwLUXXFxIrjwHXKz50QUjBF0w/edit#slide=id.p)
 * [Class 13 | APIs](https://docs.google.com/presentation/d/1eblPOhpOL1HDFk3XOh3KvcrFceJ4pwZNUU_fvU8i7uo/edit#slide=id.p)
 * [Class 14 | SQL](https://docs.google.com/presentation/d/1HHgrkFtuhGIaPNMd1EOiM-8VtgnF0cwjMcmah8oWmWA/edit#slide=id.p)
-* [MISC | GitHub Setup](https://docs.google.com/presentation/d/1yAKYnrQ8rPdarY8ZYZCi6JhFcJ_WWc_xkWxJ_4mDuvY/edit#slide=id.g28842884138_0_5)
+* [MISC | GitHub Setup](https://docs.google.com/presentation/d/1yAKYnrQ8rPdarY8ZYZCi6JhFcJ_WWc_xkWxJ_4mDuvY/edit#slide=id.g28842884138_0_5) -->
 
 
 ## Surveys
 
 <!-- * [Final project group preferences form](https://forms.gle/FxrVnLGXrLiGDtTh6) (due Friday, 10/06/23) -->
-* Final project group preferences form (to be posted) (due Friday, 10/06/23)
+* Final project group preferences form (to be posted)
 <!-- * [Problem set 2 feedback form](https://forms.gle/R7GD8CYZiH182wwJ9) to complete *after* submitting pset 2 -->
 <!-- * [Complete this student information form](https://forms.gle/irAmC6sbBjEwKvL99) -->
 
 
 ## Links for getting started
 
-* [Join the course DataCamp](https://www.datacamp.com/groups/shared_links/434e7826f38af70536acc1d3bf83fe921babc9c35b966195cf577468505c0473)
+<!-- * [Join the course DataCamp](https://www.datacamp.com/groups/shared_links/434e7826f38af70536acc1d3bf83fe921babc9c35b966195cf577468505c0473) -->
 <!-- * [Join the course Piazza](https://piazza.com/dartmouth/winter2023/qss020wi23) -->
 * [Create a free Overleaf account](https://www.overleaf.com/register)
 * [Create a free GitHub account](https://docs.github.com/en/github/getting-started-with-github/signing-up-for-a-new-github-account)

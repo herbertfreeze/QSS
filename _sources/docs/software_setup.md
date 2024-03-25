@@ -15,12 +15,9 @@ kernelspec:
 
 **Please use Slack instead of emailing the instructor or TA(s)**, as other students will likely share your questions and may be able to answer them too. While I will be answering questions within a window of 24 hours, I encourage you to help each other and answer each other's questions. 
 
-There are Slack channels for each major part of the course. The other folders and their respective topics for discussion are:
+There is a Slack channel for the course, suitable for general questions, Python, and Latex:
 
-    - `qss20-general`: logistics, schedule, projects, due dates, and announcements, and general chat.
-    - `qss20-python`: python in general, not specific to problem sets or final project components.
-    - `qss20-gitCommand`: creating git repositories, the online GitHub interface, making commits and pull requests, etc.
-    - `qss20-latex`: LaTeX syntax, working with templates on Overleaf, etc.
+    - `qss20-S24`: logistics, schedule, projects, clarification, due dates, and announcements, and general chat.
 
 - **Locally-installed Python**. While cloud computing is common in data science, the baseline for code development is to work locally. So the main interface we will use to code is your own laptop, on which you will install Python and relevant packages. 
 

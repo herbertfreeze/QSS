@@ -39,7 +39,7 @@ Create a private GitHub repository for your team that contains:
 - A link to cloud storage where you keep the data (e.g., Dropbox, Google Drive)
 
 Add Prof. Chang + the TA(s) as collaborators:
-- Our GitHub usernames: herbertfreeze, Sabin-Dart, and emj1214.
+- Our GitHub usernames: herbertfreeze and Sabin-Dart.
 
 Then assign us an issue to review some progress on code/analysis.
 - You do NOT need to be close to finished for this. We just want to see that you’ve loaded the data and started to write some code
@@ -48,8 +48,6 @@ Then assign us an issue to review some progress on code/analysis.
 ## Final submission components
 
 1. A 15 minute final presentation (written in LaTeX)
-<!-- 	- Build your presentation from [this slide template](https://www.overleaf.com/5326326236xjqkschrjhrs) 
-		- **Copy this template to your own Overleaf before editing!** -->
 	- This presentation is meant as an update on work in progress, not a polished, completed product. It will be graded **pass/fail**.
 	- You will still have time to work on your paper after the final presentation: The paper is due about a week after the presentations.
 
