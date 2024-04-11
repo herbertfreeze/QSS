@@ -15,13 +15,13 @@ kernelspec:
 
 ## Course Slides
 
-<!-- * [Class 01 | Intro + Set-up](https://docs.google.com/presentation/d/1poBYxsWjkDBXTXYbn4baaI5OcH88yvvbdcFpxS4oaEU/edit?usp=sharing) -->
-<!-- * [Class 02 | Pandas](https://docs.google.com/presentation/d/1vY-beiNJfSuRUoxs_KklL-uCkVGfTYyMsH7vpVf-NLk/edit?usp=sharing)
+* [Class 01 | Intro + Set-up](https://docs.google.com/presentation/d/1poBYxsWjkDBXTXYbn4baaI5OcH88yvvbdcFpxS4oaEU/edit?usp=sharing)
+* [Class 02 | Pandas](https://docs.google.com/presentation/d/1vY-beiNJfSuRUoxs_KklL-uCkVGfTYyMsH7vpVf-NLk/edit?usp=sharing)
 * [Class 03 | Pandas 2](https://docs.google.com/presentation/d/1YMXMjCJaauhTdbN0jCahZnojTfAYWEJpQxOZ0Scrhfk/edit?usp=sharing)
 * [Class 04 | User-defined functions](https://docs.google.com/presentation/d/1mWtLp_7DX-CSEjY9rYoEZTOul5NZASGRxwDwAw_uaI0/edit?usp=sharing)
 * [Class 05 | Workflows](https://docs.google.com/presentation/d/1a5WrPC7Egqm5H6MRM1velJvARqo52P25KB6n1z-Tnt4/edit?usp=sharing)
 * [Class 06 | Merging](https://docs.google.com/presentation/d/1EzW9FZ7PwoUk-rGVj3HaIAiTvEUf-tqwi1_snhBsDEw/edit?usp=sharing)
-* [Class 07 | Regex](https://docs.google.com/presentation/d/1fXIelawCC1bVRYZJ7h2vVwTSLEAuMfump9T4ryZe3Uw/edit#slide=id.p)
+<!-- * [Class 07 | Regex](https://docs.google.com/presentation/d/1fXIelawCC1bVRYZJ7h2vVwTSLEAuMfump9T4ryZe3Uw/edit#slide=id.p)
 * [Class 08 | Text-Mining](https://docs.google.com/presentation/d/1-hTYPJSX056KihRFuaG388X48A3qo1uvz_VScjM86q8/edit#slide=id.p)
 * [Class 09 | Topic modeling](https://docs.google.com/presentation/d/1IUt95sZZhVUlnI6MaMGPmmRR22YmYsHKmi2c_QdIG8Y/edit#slide=id.p)
 * [Class 10 | Social network analysis](https://docs.google.com/presentation/d/1YFY1t4TFikI9x-Jt4P9-5SUAgueZroP1p8iQBnx_o78/edit#slide=id.p)
@@ -34,8 +34,7 @@ kernelspec:
 
 ## Surveys
 
-<!-- * [Final project group preferences form](https://forms.gle/FxrVnLGXrLiGDtTh6) (due Friday, 10/06/23) -->
-* Final project group preferences form (to be posted)
+* [Final project group preferences form](https://forms.gle/819GCCuMtFAhGX119) (due Friday, 04/21/2024)
 <!-- * [Problem set 2 feedback form](https://forms.gle/R7GD8CYZiH182wwJ9) to complete *after* submitting pset 2 -->
 <!-- * [Complete this student information form](https://forms.gle/irAmC6sbBjEwKvL99) -->
 
