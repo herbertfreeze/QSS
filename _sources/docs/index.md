@@ -5,7 +5,7 @@ QSS 20 is a foundational and required course in the Quantitative Social Science 
 Our topics will include data wrangling and visualization, including merging datasets and SQL for database manipulation; data extraction via APIs and web-scraping; processing and analyzing text as data; and supervised machine learning. Students will also be exposed to [Git/GitHub](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) for version control and reproducibility, the command line for scalable computing, and [LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) for smart typesetting and collaborative workflows. In addition to introductory coding modules via DataCamp, in-class activities, and problem sets, the course will culminate in a group-based, applied data science project using a real-world dataset with social impact.
 
 The course will be taught be Prof. Herbert Chang.
-<!-- and TAs Emma Johnson, and Sabin Hart. -->
+and TA Kevin Caballero.
 
 
 ## Prerequisites 
@@ -30,8 +30,8 @@ The goal of this course is for students to become better data scientists. Studen
 
 * Monday: 9-10 AM (Prof. C OH)
 <!-- * Tuesday: 4:30 - 5:30 PM (Emma OH) -->
-* Wednesday: 9-10 AM (Prof. C OH)
-* Thursday: Peer tutoring TBD
+<!-- * Wednesday: 9-10 AM (Prof. C OH) -->
+<!-- * Thursday: Peer tutoring TBD -->
 <!-- * Friday: 1:30 -2:30 PM (Sabin OH) -->
 * Saturday: none
 <!-- * Sunday: Peer tutoring TBD -->
