@@ -16,7 +16,7 @@ kernelspec:
 You will select one of three options for your final project:
 
 
-## 1. Social Impact Practicum topic: Training medical students to work with Intellectual and Developmental Disabilities (IDD)
+## 1. Social Impact Practicum
 
 With support from the [Dartmouth Center for Social Impact](https://students.dartmouth.edu/social-impact/), one option for your final project is to complete a [Social Impact Practicum](https://students.dartmouth.edu/social-impact/programs-initiatives/students/social-impact-practicums-sips) (SIP): a chance for you to use your data science skills to help a real-world organization. 
 
@@ -24,7 +24,7 @@ With support from the [Dartmouth Center for Social Impact](https://students.dart
  -->
 <!-- If you choose this project option, you have two options. The first is to analyze the results of medical student training for prescribing to folks with Intellectual and Developmental Disabilities (IDD). The second is to study a large dataset on experiences and outcomes for START participants. -->
 
-### SIP Option 1: New Hampshire Academy of Science
+### SIP Option 1: 21st Century Community Learning Centers
 
 The 21st Century Community Learning Centers (21C) program for the Vermont Agency of Education has collected from about 90 sites offering 21C-supported afterschool and summer programs in Vermont. The dataset includes both quantitative data (for example, the % of students from low-income families and the number of students receiving different “doses” of afterschool/summer programs) and qualitative data (for example, descriptions of exemplary projects from each program). Students can use this data to evaluate the efficacy of afterschool and summer programs.
 
