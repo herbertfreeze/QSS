@@ -24,11 +24,13 @@ With support from the [Dartmouth Center for Social Impact](https://students.dart
  -->
 <!-- If you choose this project option, you have two options. The first is to analyze the results of medical student training for prescribing to folks with Intellectual and Developmental Disabilities (IDD). The second is to study a large dataset on experiences and outcomes for START participants. -->
 
-### SIP Option 1: Medical training data
+### SIP Option 1: New Hampshire Academy of Science
 
-In rural areas such as the Upper Valley, participants often claim to have learned of new initiatives by “word of mouth”. Unfortunately, while this may be an effective communication tool among affluent communities, research indicates that it does not necessarily reach those who are less financially secure.
+The 21st Century Community Learning Centers (21C) program for the Vermont Agency of Education has collected from about 90 sites offering 21C-supported afterschool and summer programs in Vermont. The dataset includes both quantitative data (for example, the % of students from low-income families and the number of students receiving different “doses” of afterschool/summer programs) and qualitative data (for example, descriptions of exemplary projects from each program). Students can use this data to evaluate the efficacy of afterschool and summer programs.
 
-NHAS has secured a generous amount of financial aid to increase the socioeconomic representation in the scientific community but unless applicants from less affluent communities know about, and subsequently apply to, NHAS programs, these financial resources go unused.
+### SIP Option 2: New Hampshire Academy of Science
+
+In rural areas such as the Upper Valley, participants often claim to have learned of new initiatives by “word of mouth”. Unfortunately, while this may be an effective communication tool among affluent communities, research indicates that it does not necessarily reach those who are less financially secure. NHAS has secured a generous amount of financial aid to increase the socioeconomic representation in the scientific community but unless applicants from less affluent communities know about, and subsequently apply to, NHAS programs, these financial resources go unused.
 
 To that end, NHAS is hoping Dartmouth students can work with data gathered by NHAS educational research surveys and registration data for NHAS patrons of current programs and camps to explore which communities in the Upper Valley are underrepresented in their program. This aligns with a broader goal of ensuring that the scientific community is accessible, regardless of socioeconomics, and truly representative of the broader community at large.
 
@@ -89,21 +91,17 @@ You can view the [data dictionary here](https://docs.google.com/spreadsheets/d/1
 
 **These options require working in a group.**
 
-## 2. COVID-19 Discourse on Social Media
+## 2. Massive Social Media Data
 
 The COVID-19 pandeimic impacted every country globally, with stay-at-home orders in most countries with outbreaks. The unprecendented amount of online activity also provided an opportunity to understand human behavior at a granular scale. Projects will analyze the largest COVID-19 Twitter dataset (n=4 billion) to investigate how COVID-19 interesect with student's particular interests. Examples from this dataset include [election misinformation](https://misinforeview.hks.harvard.edu/article/covid-19-misinformation-and-the-2020-u-s-presidential-election/), [liberal and conservative bots pushing misinformation](https://www.nytimes.com/2020/10/29/technology/twitter-bots-poised-to-spread-disinformation-before-election.html), and [KPop driving public health practices like mask wearking](https://arxiv.org/pdf/2110.04149.pdf).
 
-
-**This option requires working in a group.**
- 
-## 3. SIPS 2
-
+Second, in recent years, text-based social media has given way to visual-based social media, and is now often the source of political organization and protest. The 2024 United States Presidential Election is a hotbed to test social scientific ideas, and as part of our efforts we have gathered 500,000 Instagram posts and 750,000 TikTok posts for analysis. This provides the opportunity to do timely analysis on the ongoing elections.
 
 
 **This option requires working in a group.**
 
 
-## 4. Use Senior Thesis/independent project 
+## 3. Use Senior Thesis/independent project 
 
 If you're already pursuing a significant research project, you may use this course to advance an existing work in progress, covering parts and analysis you might not include otherwise. This is intended to build toward your thesis. If you are already enrolled in a thesis course, I will need to coordinate with your other professor. If in doubt, please ping me on Slack or email.
 
